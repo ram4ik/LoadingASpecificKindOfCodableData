@@ -13,6 +13,8 @@
 		1D4EF7AA236D55AC00184348 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D4EF7A9236D55AC00184348 /* Assets.xcassets */; };
 		1D4EF7AD236D55AC00184348 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D4EF7AC236D55AC00184348 /* Preview Assets.xcassets */; };
 		1D4EF7B0236D55AC00184348 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D4EF7AE236D55AC00184348 /* LaunchScreen.storyboard */; };
+		1D4EF7B9236D5F7900184348 /* missions.json in Resources */ = {isa = PBXBuildFile; fileRef = 1D4EF7B7236D5F7900184348 /* missions.json */; };
+		1D4EF7BA236D5F7900184348 /* astronauts.json in Resources */ = {isa = PBXBuildFile; fileRef = 1D4EF7B8236D5F7900184348 /* astronauts.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		1D4EF7AC236D55AC00184348 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1D4EF7AF236D55AC00184348 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1D4EF7B1236D55AC00184348 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1D4EF7B7236D5F7900184348 /* missions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = missions.json; path = "../../../Downloads/HackingWithSwift-master/SwiftUI/project8-files/missions.json"; sourceTree = "<group>"; };
+		1D4EF7B8236D5F7900184348 /* astronauts.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = astronauts.json; path = "../../../Downloads/HackingWithSwift-master/SwiftUI/project8-files/astronauts.json"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,8 @@
 				1D4EF7A9236D55AC00184348 /* Assets.xcassets */,
 				1D4EF7AE236D55AC00184348 /* LaunchScreen.storyboard */,
 				1D4EF7B1236D55AC00184348 /* Info.plist */,
+				1D4EF7B8236D5F7900184348 /* astronauts.json */,
+				1D4EF7B7236D5F7900184348 /* missions.json */,
 				1D4EF7AB236D55AC00184348 /* Preview Content */,
 			);
 			path = LoadingASpecificKindOfCodableData;
@@ -135,6 +141,8 @@
 			files = (
 				1D4EF7B0236D55AC00184348 /* LaunchScreen.storyboard in Resources */,
 				1D4EF7AD236D55AC00184348 /* Preview Assets.xcassets in Resources */,
+				1D4EF7B9236D5F7900184348 /* missions.json in Resources */,
+				1D4EF7BA236D5F7900184348 /* astronauts.json in Resources */,
 				1D4EF7AA236D55AC00184348 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
